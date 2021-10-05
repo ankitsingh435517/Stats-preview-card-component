@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution here](https://www.frontendmentor.io/solutions/html5-css3-flexbox-mobilefirst-workflow-cssproperties-CwsZwgUqI)
 - Live Site URL: [live demo](https://ankitsingh435517.github.io/Stats-preview-card-component/)
 
 ## My process
