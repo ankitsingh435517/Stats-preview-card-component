@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live demo](https://ankitsingh435517.github.io/Stats-preview-card-component/)
 
 ## My process
 
@@ -49,7 +49,6 @@ Here i learned a lot about background overlay , responsive(mobile) design and ho
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@ankitsingh435517](https://www.frontendmentor.io/profile/ankitsingh435517)
+- Twitter - [@ankitsingh435](https://www.twitter.com/ankitsingh435)
 
